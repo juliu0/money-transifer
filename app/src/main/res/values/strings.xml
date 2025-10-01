@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Money Transfer</string>
+    <string name="send_money">Send Money</string>
+    <string name="receive_money">Receive Money</string>
+    <string name="invest">Invest</string>
+    <string name="betting">Betting on Games</string>
+    <string name="balance">Balance: $%.2f</string>
+    <string name="welcome">Welcome to Money Transfer App</string>
+    <string name="recipient_id">Recipient ID</string>
+    <string name="amount">Amount</string>
+    <string name="send">Send</string>
+    <string name="sender_id">Sender ID</string>
+    <string name="receive">Receive</string>
+    <string name="investment_type">Investment Type</string>
+    <string name="expected_return">Expected Return (%)</string>
+    <string name="duration_months">Duration (months)</string>
+    <string name="invest_now">Invest Now</string>
+    <string name="select_game">Select Game</string>
+    <string name="prediction">Your Prediction</string>
+    <string name="odds">Odds</string>
+    <string name="place_bet">Place Bet</string>
+    <string name="success">Success!</string>
+    <string name="error">Error!</string>
+    <string name="insufficient_balance">Insufficient balance</string>
+    <string name="transaction_successful">Transaction successful</string>
+    <string name="investment_created">Investment created successfully</string>
+    <string name="bet_placed">Bet placed successfully</string>
+    <string name="stocks">Stocks</string>
+    <string name="bonds">Bonds</string>
+    <string name="mutual_funds">Mutual Funds</string>
+</resources>
